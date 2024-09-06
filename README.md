@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oknesif&theme=dark" alt="d-coder111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oknesif&theme=dark" alt="Oknesif" /></p>
 
 <!--
 **Oknesif/Oknesif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
